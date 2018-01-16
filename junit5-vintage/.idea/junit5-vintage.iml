@@ -11,5 +11,8 @@
     <orderEntry type="library" name="junit-vintage-engine-5.1.0-M1" level="project" />
     <orderEntry type="library" name="apiguardian-api-1.0.0" level="project" />
     <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="library" name="junit-jupiter-api-5.0.0-RC2" level="project" />
+    <orderEntry type="library" name="opentest4j-1.0.0-RC1" level="project" />
+    <orderEntry type="library" name="junit-platform-commons-1.1.0-M1" level="project" />
   </component>
 </module>
