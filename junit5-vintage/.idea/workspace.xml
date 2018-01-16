@@ -37,18 +37,21 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorTests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/CalculatorTests.java">
+      <file leaf-file-name="MathTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="e#0#735#0" expanded="true" />
+                <element signature="e#0#912#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +90,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/example/project/CalculatorTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java" />
       </list>
     </option>
   </component>
@@ -117,33 +121,77 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="junit5-jupiter-idea-lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="junit5-jupiter-idea-lib" type="462c0819:PsiDirectoryNode" />
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="junit5-vintage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="junit5-vintage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../junit5-vintage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julia.Reshetnikova\Documents\GitHub\JUnit5\junit5-vintage\.idea\lib" />
       <recent name="C:\Users\Julia.Reshetnikova\Documents\GitHub\JUnit5\junit-5\lib" />
     </key>
   </component>
@@ -159,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTests">
+  <component name="RunManager" selected="JUnit.MathTest">
     <configuration name="CalculatorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -167,7 +215,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="junit5-jupiter-idea-lib" />
+      <module name="junit5-jupiter" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.example.project" />
@@ -202,6 +250,31 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="junit5-vintage" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.project" />
+      <option name="MAIN_CLASS_NAME" value="com.example.project.MathTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -302,20 +375,25 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.com.example.project in junit5-jupiter" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTests.add" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTests" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MathTest" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTests" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTests.add" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MathTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTests" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTests.add" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -325,30 +403,45 @@
       <option name="presentableId" value="Default" />
       <updated>1516104301235</updated>
       <workItem from="1516104302417" duration="765000" />
-      <workItem from="1516106054424" duration="442000" />
-      <workItem from="1516108051079" duration="585000" />
+      <workItem from="1516106054424" duration="1036000" />
+      <workItem from="1516108637487" duration="1863000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTests - 2018.01.16 at 15h 38m 58s.xml">
+    <history-entry file="CalculatorTests - 2018.01.16 at 16h 34m 15s.xml">
       <configuration name="CalculatorTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTests - 2018.01.16 at 16h 15m 49s.xml">
+    <history-entry file="CalculatorTests - 2018.01.16 at 16h 34m 31s.xml">
       <configuration name="CalculatorTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTests_add - 2018.01.16 at 15h 38m 43s.xml">
-      <configuration name="CalculatorTests.add" configurationId="JUnit" />
+    <history-entry file="MathTest - 2018.01.16 at 16h 38m 34s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 15h 39m 28s.xml">
-      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    <history-entry file="MathTest - 2018.01.16 at 16h 39m 21s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 16h 09m 43s.xml">
-      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    <history-entry file="MathTest - 2018.01.16 at 16h 40m 05s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathTest - 2018.01.16 at 16h 40m 27s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathTest - 2018.01.16 at 16h 41m 55s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathTest - 2018.01.16 at 16h 43m 33s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathTest - 2018.01.16 at 16h 47m 34s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MathTest - 2018.01.16 at 16h 48m 10s.xml">
+      <configuration name="MathTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1792000" />
+    <option name="totallyTimeSpent" value="3664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1154" extended-state="6" />
@@ -359,11 +452,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17857143" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -394,16 +487,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/CalculatorTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#735#0" expanded="true" />
+            <element signature="e#0#912#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -412,16 +508,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/CalculatorTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="e#0#735#0" expanded="true" />
+            <element signature="e#0#912#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -430,16 +529,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/CalculatorTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" column="44" lean-forward="false" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#735#0" expanded="true" />
+            <element signature="e#0#912#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -485,7 +587,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.5</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -497,7 +599,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>junit5-jupiter</last-edited>
+          <last-edited>junit5-vintage</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

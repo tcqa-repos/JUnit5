@@ -22,4 +22,10 @@ class CalculatorTests {
 		assertEquals(2, calculator.add(1, 1), "1 + 1 should equal 2");
 	}
 
+    @Test
+    void add2() {
+        Calculator calculator = new Calculator();
+        assertEquals(2, calculator.add(1, 1));
+    }
+
 }
