@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BuildServerSettings">
-    <option name="LOGIN" value="" />
-    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="LOGIN" value="admin" />
+    <option name="SERVER_URL" value="http://tcqa-server-trunk:8111" />
     <option name="REMEMBER_ME" value="true" />
     <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
     <option name="INSPECTIONS_BUILD_TYPE_IDS" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="MathTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#0#912#0" expanded="true" />
               </folding>
@@ -380,26 +380,11 @@
       <updated>1516104301235</updated>
       <workItem from="1516104302417" duration="765000" />
       <workItem from="1516106054424" duration="1036000" />
-      <workItem from="1516108637487" duration="3720000" />
+      <workItem from="1516108637487" duration="3917000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MathTest - 2018.01.16 at 17h 10m 10s.xml">
-      <configuration name="MathTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 11m 36s.xml">
-      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 15m 01s.xml">
-      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 15m 41s.xml">
-      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 15m 59s.xml">
-      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 18m 34s.xml">
       <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
     </history-entry>
@@ -415,9 +400,24 @@
     <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 29m 58s.xml">
       <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 30m 57s.xml">
+      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 31m 07s.xml">
+      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 31m 18s.xml">
+      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 31m 35s.xml">
+      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_example_project_in_junit5-jupiter - 2018.01.16 at 17h 32m 29s.xml">
+      <configuration name="com.example.project in junit5-jupiter" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5521000" />
+    <option name="totallyTimeSpent" value="5718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1154" extended-state="6" />
@@ -428,11 +428,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32908913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -514,8 +514,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/example/project/MathTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#0#912#0" expanded="true" />
           </folding>
