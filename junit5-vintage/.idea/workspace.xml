@@ -258,31 +258,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.project.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="junit5-vintage" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.example.project" />
-      <option name="MAIN_CLASS_NAME" value="com.example.project.MathTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -377,9 +352,9 @@
     </configuration>
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.com.example.project in junit5-jupiter" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTests.add" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTests" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.MathTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MathTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTests.add" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTests" />
     </list>
     <recent_temporary>
       <list size="3">
@@ -404,7 +379,7 @@
       <updated>1516104301235</updated>
       <workItem from="1516104302417" duration="765000" />
       <workItem from="1516106054424" duration="1036000" />
-      <workItem from="1516108637487" duration="1863000" />
+      <workItem from="1516108637487" duration="2470000" />
     </task>
     <servers />
   </component>
@@ -441,7 +416,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3664000" />
+    <option name="totallyTimeSpent" value="4271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1154" extended-state="6" />
